@@ -3,3 +3,9 @@
 	padding: 0px;
 	margin :0px;
 	box-sizing :border-box;
+}
+#btn{
+	border-radius: 0%;
+	padding:0px 5px
+
+}
