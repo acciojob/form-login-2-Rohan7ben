@@ -5,7 +5,9 @@
 }
 #btn{
 	border-radius: 0%;
-	padding:0px 5px
+	
+	padding:  5px 8px ;
+	border:1px solid black;
 	
 
 
@@ -15,10 +17,18 @@
 	display:flex;
 	justify-content :left;
 	align-items : center;
+	
 	padding: 5px 10px;
 	align-content: center;
 	color:white;
 	gap:15px;
 	background-color: black
+}
+.box{
+	padding-top:25px;
+	padding-left:30px;
+}
+
+	
 	
 }
